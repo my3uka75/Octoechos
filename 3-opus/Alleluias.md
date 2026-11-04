@@ -13,7 +13,7 @@
 *Alleluias* for viola and piano is commissioned for Malin Broman, the concertmaster of the Swedish Radio Orchestra, and the pianist Simon Crawford-Phillips for their spring-tour in the southern Sweden, year 2022. The work consists of several consecutive so called *alleluias*, a short praise-movements, which are grouped into three general parts, fast-slow-fast movements. A great emphasis is laid on the repetitive fragments that enhance a ritualistic approach to the music, but also improvisation-like passages in the viola, reaching the culmination in the last minutes of the piece. 
 
 ## Technique
-The composition doesn't refer to any particular *alleluia*, however in the score there are inscribed hints, yet not playable instructions, with the words such as 'alleluia', 'amen', 'love' or 'rejoice', which are encoded into the music material in a particular way by the composer. The music follows strict rules of the [Ancient Mode](https://github.com/xii15/AncientMode/), including scales, harmonic progressions and voice leading. The composition is written in the Ancient Mode in G# of melodic genus.
+The composition doesn't refer to any particular *alleluia*, however in the score there are inscribed hints, yet not playable instructions, with the words such as 'alleluia', 'amen', 'love' or 'rejoice', which are encoded into the music material in a particular way by the composer. The music follows strict rules of the [Ancient Mode](1-techne/1a-ancient-mode/1a.1_Ancient_Mode.md), including scales, harmonic progressions and voice leading. The composition is written in the Ancient Mode in G# of melodic genus.
 
 ## Further usage
 The composition was partly reused in Zivkovic's violin concerto [Chandangel](Chandangel.md), written in 2021/23.
