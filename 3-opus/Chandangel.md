@@ -51,7 +51,7 @@ Den här specifika ängeln, upplyst inifrån, skulle säga i öknen: "Vad är me
 In the orchestration, a digital keyboard is utilized, and the synthesizer "Zebra2" by u-he is featured with various patches available for download HERE. Achieving a balanced blend with the orchestra is paramount, preferably utilizing an omni speaker setup in stereo for optimal performance.
 
 ## Technique
-The concerto is completely written in the Ancient Mode in D.
+The concerto is completely written in the [Ancient Mode](1-techne/1a-ancient-mode/1a.1_Ancient_Mode.md) in D.
 
 
 **[INDEX](README.md)***
