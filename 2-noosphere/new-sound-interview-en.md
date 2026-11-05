@@ -12,7 +12,9 @@ contact: premateATgmail.com
 *New Sound 67, I/2026*  
 (premateATgmail.com)
 
-> The basis of your style is its organic connection with your philosophical and religious views. When and how did this strong and passionate symbiosis begin to take shape?
+> Composer Đuro Živković discusses his unique artistic philosophy in an interview with Zorica Premate, explaining how his work is deeply intertwined with spiritual and religious concepts. He describes his compositions as a form of ascetic prayer and inner transformation influenced by the early Christian text known as the Philokalia. Živković elaborates on his "ancient mode" framework, which bridges historical and contemporary elements to achieve profound internal consistency and emotional gravity in his works. Furthermore, he expands standard orchestral instrumentation by incorporating unconventional and forgotten instruments to create rich timbres that reach the ineffable. Ultimately, he envisions a new artistic epoch called "iconism," wherein music serves as a living testimony of truth and light that guides humanity toward goodness and higher reality.
+
+***The basis of your style is its organic connection with your philosophical and religious views. When and how did this strong and passionate symbiosis begin to take shape?***
 
 My philosophical formation began already during my studies in Belgrade in the late 1990s, when I was in Prof. Vlastimir Trajković's class. This was my entry into a domain where music was perceived as thought, as a quest for meaning, and not merely as a craft. Already in my first year, I wrote a 37-minute sonata for violin and piano titled *Metaphysical Poem*, because I felt then that music demanded to be more than sound. The title was deliberate; some considered it provocative as well.
 
@@ -20,7 +22,7 @@ The religious aspect came later, perhaps as a continuation of that initial exper
 
 ---
 
-> Do you see yourself as an artist in the tradition of Byzantine Orthodox Christianity, mysticism, and music?
+***Do you see yourself as an artist in the tradition of Byzantine Orthodox Christianity, mysticism, and music?***
 
 I wouldn't say that I see myself as an artist who technically belongs to the tradition of Byzantine music. My music doesn't follow its models, borrow its forms, or attempt to reconstruct its language.
 
@@ -30,7 +32,7 @@ That is why for me there are no technical moulds that one should fill, or styles
 
 ---
 
-> Your view of the world and art is significantly influenced by the teachings of several Church Fathers, confessors, philosophers and mystics. Your works from the last two decades typically deal with Christian love and Orthodox ethics. Hence one of your philosophical postulates – philokalia.
+***Your view of the world and art is significantly influenced by the teachings of several Church Fathers, confessors, philosophers and mystics. Your works from the last two decades typically deal with Christian love and Orthodox ethics. Hence one of your philosophical postulates – philokalia.***
 
 That word, *philokalia*, “love of the beautiful”, became a sort of internal reversal for me. Above all, it removed me from what one might call the closed circle of aestheticism. *Philokalia* has taught me that beauty is a reflection of something deeper: truth and goodness. And that, if it is separated from them, it becomes an illusion, even a temptation. Therefore, my progress toward the spirit of *philokalia* meant an essential transition from the aesthetic domain of what I would call “uni-musical”, the general, abstract field of music, into the domain of spiritual categories.
 
@@ -42,7 +44,7 @@ And if I had to put it briefly, I would say this: *philokalia* taught me that ar
 
 ---
 
-> Your music sounds prayerful in its own right, whether with words or without them. The rhythm in which it combines fast and slow sections, drama and stasis, sound and silence, rhythmic patterns, ostinatos and parlando-rubato... those are the laws of prayer spoken by music. Your music is above all a prayer?
+***Your music sounds prayerful in its own right, whether with words or without them. The rhythm in which it combines fast and slow sections, drama and stasis, sound and silence, rhythmic patterns, ostinatos and parlando-rubato... those are the laws of prayer spoken by music. Your music is above all a prayer?***
 
 I believe that my music represents an internal flow, as a testimony of the current condition of the soul. And indeed, those states are very dynamic, as you noted as well. For spiritual life, in the Christian experience, is about moving: struggling, rising, and falling. In that sense, it is closer to the liturgical experience than to some kind of abstract silence. Just as the Liturgy itself is exceedingly dramatic as well.
 
@@ -50,7 +52,7 @@ That is also where I see a key difference regarding many eastern teachings, whic
 
 ---
 
-> How do you accomplish that “fantastic narrativity”, that charisma of sound, the power to draw the listener in and maintain their spirit in a mystical experience? That moment of “sonic contemplation”? Is your ascetic control of experience and controlled selection of materials and compositional-technological procedures one of the ways you accomplish that?
+***How do you accomplish that “fantastic narrativity”, that charisma of sound, the power to draw the listener in and maintain their spirit in a mystical experience? That moment of “sonic contemplation”? Is your ascetic control of experience and controlled selection of materials and compositional-technological procedures one of the ways you accomplish that?***
 
 What you call “sonic contemplation” is indeed a state that is gradually summoned. One of the key aspects is time control. But not time in physical terms, in terms of seconds, but something I would call musical time. Musical time is elastic. The composer determines the very density of that time's flow. In that sense, I always felt close to Tarkovsky's notion of “sculpting in time”. Music, if it is to acquire that internal strength, must become a continuous sonic flux, but one that is focused, concentrated, almost like the mind in prayer. If that concentration is disturbed, if it falls apart and reverts to physical time, then what is lost is precisely that ability to “draw” the listener in.
 
@@ -60,7 +62,7 @@ In that context, too, the ascetics you referred to is inevitable. Controlling ti
 
 ---
 
-> Have you thought about your music in terms of phrases, gestures, effects, and operational models? How do antiquity and contemporaneity so naturally and authentically flow together? Microtonality and melody, aleatoric and diatonic music, solid structures and improvisation?
+***Have you thought about your music in terms of phrases, gestures, effects, and operational models? How do antiquity and contemporaneity so naturally and authentically flow together? Microtonality and melody, aleatoric and diatonic music, solid structures and improvisation?***
 
 I have certainly thought about music in those terms, but as visible consequences of something that precedes them, because those parameters are not autonomous, determined as they are by extra-musical values, the ones we've already discussed before.
 
@@ -72,7 +74,7 @@ Regarding the question of how “antiquity and contemporaneity” naturally merg
 
 ---
 
-> In your scores (more often in your early works), the instrumental ensembles they specify are traditional (but they're always used in non-traditional ways!), while in your later works they are increasingly defamiliarized with non-traditional combinations, and sometimes they feature some “forgotten” instruments: the psalterium, Theremin, piccolo trumpet, piccolo flute, accordion, waterphone... singing bowls... and the performers-instrumentalists and/or singers are often required to sing as well as play, whistle, perform on small percussion instruments or bells... Timbre and virtuosic orchestration are highly important in your music?
+***In your scores (more often in your early works), the instrumental ensembles they specify are traditional (but they're always used in non-traditional ways!), while in your later works they are increasingly defamiliarized with non-traditional combinations, and sometimes they feature some “forgotten” instruments: the psalterium, Theremin, piccolo trumpet, piccolo flute, accordion, waterphone... singing bowls... and the performers-instrumentalists and/or singers are often required to sing as well as play, whistle, perform on small percussion instruments or bells... Timbre and virtuosic orchestration are highly important in your music?***
 
 Like most composers, I'm often faced with a predetermined medium: a string quartet, à cappella choir, an orchestra of a certain size. Those are, so to speak, historically “given boundaries”. But what arises in me as sound very often exceeds those boundaries, as though it wouldn't quite acquiesce to them, as if it were searching for space where it might flow out in a metaphysical sense, as an attempt at opening sound to those “worlds of the ineffable”.
 
@@ -80,7 +82,7 @@ Because the standard orchestra is actually a product of the Viennese classical e
 
 ---
 
-> In order to achieve that unity of material and procedure in your music, you have created, using the “harmony of difference tones”, a scale comprising nine notes – your “ancient scale”?
+***In order to achieve that unity of material and procedure in your music, you have created, using the “harmony of difference tones”, a scale comprising nine notes – your “ancient scale”?***
 
 I'd rather say that this unity wasn't formed through the scale itself, as such, but through something I called the “ancient mode”.
 
@@ -90,7 +92,7 @@ In that context, the so-called “nine-degree scale” you mentioned is one of t
 
 ---
 
-> The titles of your pieces are unusual, often poetic or compound, or idiomatic. They form an important part of your philosophy and poetics?
+***The titles of your pieces are unusual, often poetic or compound, or idiomatic. They form an important part of your philosophy and poetics?***
 
 Of course, the title is extremely important for me. I've always found it hard to imagine a work without a title, so much so that I can't compose without first knowing the title of the piece. The title is a window into the interior of the work. Also, I've always felt a certain degree of anxiety regarding “universal” titles. After all, such indifference is unknown in literature, too: no one will title their work simply a “novel”. Nevertheless, my titles are not templates for programme music, which doesn't interest me as such. Rather, my titles are a “key” for unlocking everything that is encrypted in the score.
 
@@ -98,7 +100,7 @@ Often, my titles are a reflection of what was spiritually on my mind at the time
 
 ---
 
-> The art of music is, according to your aesthetic, a fundamental philosophical essence that can change the world, a key for setting our destiny in motion toward something better and toward good. Is this Aristotle's ideal of *kalokagathia*, combined with the Christian Orthodox dogma of love?
+***The art of music is, according to your aesthetic, a fundamental philosophical essence that can change the world, a key for setting our destiny in motion toward something better and toward good. Is this Aristotle's ideal of *kalokagathia*, combined with the Christian Orthodox dogma of love?***
 
 I would try to express this in somewhat different words, which stem more from the very experience of creation. I believe that art, and especially music, is not just an expression or form, but the way that truth exists in sound. And if it is true, it has the power to convert people from dark to light. And that conversion is invariably necessary to all. Therefore, it really carries in itself something that is deeply philosophical and, at the same time, active.
 
