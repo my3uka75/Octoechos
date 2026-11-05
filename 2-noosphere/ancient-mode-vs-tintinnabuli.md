@@ -46,7 +46,7 @@ The differences between **The Ancient Mode** (AM) and Arvo Pärt’s **Tintinnab
 
 ---
 
-The comparison between **Pivot Note transformers** in the Ancient Mode (AM) and the **M-voice (Melodic voice)** in Arvo Pärt’s Tintinnabuli technique reveals two different approaches to generating musical structure from a melodic seed. While both function as a "melodic engine," the Pivot Note acts as a singular algorithmic source for the entire musical texture, whereas the M-voice is typically one-half of a dual-voice relationship.
+The comparison between **Pivot Note transformers** in the Ancient Mode (AM) of Djuro Zivkovic, and the **M-voice (Melodic voice)** in Arvo Pärt’s Tintinnabuli technique reveals two different approaches to generating musical structure from a melodic seed. While both function as a "melodic engine," the Pivot Note acts as a singular algorithmic source for the entire musical texture, whereas the M-voice is typically just one-half of a dual-voice relationship.
 
 ### 1. Generative Source vs. Melodic Partner
 
