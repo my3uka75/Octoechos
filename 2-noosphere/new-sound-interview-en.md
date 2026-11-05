@@ -12,7 +12,7 @@ contact: premateATgmail.com
 *New Sound 67, I/2026*  
 (premateATgmail.com)
 
-> Composer Đuro Živković discusses his unique artistic philosophy in an interview with Zorica Premate, explaining how his work is deeply intertwined with spiritual and religious concepts. He describes his compositions as a form of ascetic prayer and inner transformation influenced by the early Christian text known as the Philokalia. Živković elaborates on his "ancient mode" framework, which bridges historical and contemporary elements to achieve profound internal consistency in his works. Furthermore, he expands standard orchestral instrumentation by incorporating unconventional and forgotten instruments to create rich timbres that reach the ineffable. Ultimately, he envisions a new artistic epoch called "iconism," wherein music serves as a living testimony of truth and light that guides humanity toward goodness and higher reality.
+> Composer Đuro Živković discusses his unique artistic philosophy in an interview with Zorica Premate, explaining how his work is deeply intertwined with spiritual and religious concepts. He describes his compositions as a form of ascetic prayer and inner transformation influenced by the early Christian text known as the Philokalia. Živković elaborates on his "ancient mode" framework, which bridges historical and contemporary elements to achieve profound internal consistency in his works. Ultimately, he envisions a new artistic epoch called "iconism," wherein music serves as a living testimony of truth and light that guides humanity toward goodness and higher reality.
 
 ***The basis of your style is its organic connection with your philosophical and religious views. When and how did this strong and passionate symbiosis begin to take shape?***
 
