@@ -1,7 +1,7 @@
 ***Work*** is a composition
 
-- **Instrumentation**: instr./instr.
-- **Composed:** YYYY
+- **Instrumentation**: pno.
+- **Composed:** 2026
 - **Durata**: NN'
 - **Dedication**: Name Lastname
 - **Commission:** *Institution*
@@ -23,4 +23,4 @@ Text, text.
 
 ## Awards
 
-**[INDEX](README.md)***
+**[INDEX](README.md)**
