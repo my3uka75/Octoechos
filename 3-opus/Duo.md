@@ -1,7 +1,7 @@
 ***Work*** is a composition
 
-- **Instrumentation**: vla./pno.
-- **Composed:** YYYY
+- **Instrumentation**: 2vn.
+- **Composed:** 1997
 - **Durata**: NN'
 - **Dedication**: Name Lastname
 - **Commission:** *Institution*

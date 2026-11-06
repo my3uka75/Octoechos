@@ -1,6 +1,6 @@
 ***Work*** is a composition
 
-- **Instrumentation**: vla./pno.
+- **Instrumentation**: instr./instr.
 - **Composed:** YYYY
 - **Durata**: NN'
 - **Dedication**: Name Lastname

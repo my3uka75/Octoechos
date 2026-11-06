@@ -1,9 +1,8 @@
 <div align="center">
 <p><sub>THE COMPOSITIONAL CORPORA OF DjURO ZIVKOVIC</sub></p>
-
-<h1>ARSARIUM</h1>
-
+<h1>ARSARIUM</h1
 <p><em>A Treasury of Compositional Arts</em></p>
+</div>
 
 
 | Corpus | Name | Description |
@@ -13,4 +12,4 @@
 | III | **[ARS SOPHIAE](/3-ARS-SOPHIAE/readme.md)** | Thoughts & Writings on Thoughts. |
 | IV | **[OPUS](/4-OPUS/README.md)** | Index of the works. |
 
-</div>
+
