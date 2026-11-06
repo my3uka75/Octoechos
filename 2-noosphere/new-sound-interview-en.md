@@ -3,6 +3,9 @@ title: "Music, Mysticism, Philokalia: An Interview with Composer Đuro Živkovi�
 author: Zorica Premate
 institution: Radio Television of Serbia; Radio Belgrade 2
 publication: New Sound 67, I/2026
+received: "18. May 2026."
+accepted: "5. June 2026."
+udc: "78.071.1:929 Живковић Ђ.(047.53)"
 contact: premateATgmail.com
 ---
 # Music, Mysticism, Philokalia: An Interview with Composer Đuro Živković
