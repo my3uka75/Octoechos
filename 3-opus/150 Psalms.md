@@ -3,7 +3,7 @@
 - **Instrumentation**: pno.
 - **Composed:** 2026
 - **Durata**: NN'
-- **Dedication**: Name Lastname
+- **Dedication**: Martin Strufält
 - **Commission:** *Institution*
 - **Premiere**: Name Lastname, DD MMMM YYYY, at *PLACE*, CITY, Country
 - **Published:** Edition OCTOECHOS © YYYY; Cat. No. NNNN.
