@@ -23,4 +23,4 @@ Text, text.
 
 ## Awards
 
-**[INDEX](README.md)***
+**[INDEX](README.md)**

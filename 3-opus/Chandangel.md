@@ -54,4 +54,4 @@ In the orchestration, a digital keyboard is utilized, and the synthesizer "Zebra
 The concerto is completely written in the [Ancient Mode](1-techne/1a-ancient-mode/1a.1_Ancient_Mode.md) in D.
 
 
-**[INDEX](README.md)***
+**[INDEX](README.md)**
