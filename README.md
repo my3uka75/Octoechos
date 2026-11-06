@@ -1,6 +1,6 @@
 <div align="center">
 <p><sub>THE COMPOSITIONAL CORPORA OF DjURO ZIVKOVIC</sub></p>
-<h1>ARSARIUM</h1
+<h1>OCTOECHOS</h1
 <p><em>A Treasury of Compositional Arts</em></p>
 </div>
 
