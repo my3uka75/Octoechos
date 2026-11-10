@@ -1,5 +1,6 @@
 ***Chandangel*** is a concerto for violin and orchestra commissioned by Swedish Chamber Orchestra, Norwegian Chamber Orchestra and Gothenburg Symphony Orchestra, written for Pekka Kuusisto, composed in 2021-23.
 
+---
 - **Instrumentation**: 2.2.2.2/1.2.0.0./perc.kbd./Solo Vn/Str
 - **Composed:** 2023
 - **Durata**: 24'
@@ -10,7 +11,7 @@
 - **Published:** Edition OCTOECHOS © 2023; Cat. No. 5181.
 - **ISMN:** 979-0-706891-80-4
 - **ISWC:** T-323.613.065-3
-
+---
 ## Work Comment
 ### In English
 "Taking place among seven stars when the fire and events cease, and pure crystallization begins, bestowed in tranquility. An angel, lonely on the wall — perhaps he truly exists within the wall, but when not on the wall, he is a shadow. In his original seriousness, he diminishes visibility to certain things. Then wandering begins; I sense a change in the structure of my senses, and instead of a forehead, I have a single thought. There is no triumph beyond misfortune. As we discovered this, we subtly exchanged ourselves. Thus, we truly transformed into a myth, only to later doubt it.

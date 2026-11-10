@@ -1,3 +1,13 @@
+
+---
+title: "There Are Two Kinds of Knowledge…"
+author: "djuro zivkovic"
+source: "notebook"
+created: 2025-02-20
+published: 2025-02-20
+description: "short description"
+tags: "knowledge"
+---
 # There Are Two Kinds of Knowledge…
 
 Human knowledge can be of two kinds: the first is intellectual, the second spiritual. Intellectual knowledge is the knowing of numbers; it is a logical system of links. Despite its complexity, the wisdom of logic is easy to learn and master, since intellectual knowledge is reasonable, readily accessible, and feasibly attainable, with regions of finite boundaries.

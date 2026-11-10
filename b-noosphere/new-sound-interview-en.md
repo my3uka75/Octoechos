@@ -1,6 +1,6 @@
 ---
 title: "Music, Mysticism, Philokalia: An Interview with Composer Đuro Živković"
-author: Zorica Premate
+author: Zorica Premate, Djuro Zivkovic
 institution: Radio Television of Serbia; Radio Belgrade 2
 publication: New Sound 67, I/2026
 received: "18. May 2026."
@@ -8,14 +8,14 @@ accepted: "5. June 2026."
 udc: "78.071.1:929 Живковић Ђ.(047.53)"
 contact: premateATgmail.com
 ---
-# Music, Mysticism, Philokalia: An Interview with Composer Đuro Živković
+# Music, Mysticism, Philokalia: An Interview with Composer Djuro Zivkovic
 
 **Zorica Premate**  
 *Radio Television of Serbia · Radio Belgrade 2*  
 *New Sound 67, I/2026*  
 (premateATgmail.com)
 
-> Composer Đuro Živković discusses his unique artistic philosophy in an interview with Zorica Premate, explaining how his work is deeply intertwined with spiritual and religious concepts. He describes his compositions as a form of ascetic prayer and inner transformation influenced by the early Christian text known as the Philokalia. Živković elaborates on his "ancient mode" framework, which bridges historical and contemporary elements to achieve profound internal consistency in his works. Ultimately, he envisions a new artistic epoch called "iconism," wherein music serves as a living testimony of truth and light that guides humanity toward goodness and higher reality.
+> Composer Đuro Živković discusses his unique artistic philosophy in an interview with Zorica Premate, explaining how his work is deeply intertwined with spiritual and religious concepts. He describes his compositions as a form of ascetic prayer and inner transformation influenced by the early Christian text known as the Philokalia. Živković elaborates on his "ancient mode", which bridges historical and contemporary elements in order to achieve profound internal consistency in his works. Ultimately, he envisions a new artistic epoch called "iconism," wherein music serves as a living testimony of truth and light that guides humanity toward goodness and higher reality.
 
 ***The basis of your style is its organic connection with your philosophical and religious views. When and how did this strong and passionate symbiosis begin to take shape?***
 

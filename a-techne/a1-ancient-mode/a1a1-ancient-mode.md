@@ -4,25 +4,14 @@ date: 2026-01-01
 source: review
 language: en
 tags:
-  - "cross-mode"
+  - ancient-mode
+author: Petar Linta
 ---
 **The white paper "Ancient Mode" has been released on 2025-11-23**
-
-
 ## Download Section
-
-<table>
-<tbody>
-<tr>
-<td
-style="padding: 0.25em 0.5em; font-size: 1.1em; color: red"><p>DOWNLOAD
-(PDF FILE 46MB):</p>
-<p><a href="https://zivkovic.eu/u/am72"><strong>The Ancient Mode
-(v7.2)</strong></a></p>
-<p>(Updated to: <strong>v8.2</strong> on Jan 29 2026)</p></td>
-</tr>
-</tbody>
-</table>
+Download PDF file (46MB):
+## [Ancient Mode](https://zivkovic.eu/u/am72)
+(Updated to: **v8.2** on Jan 29 2026)
 
 ## Ancient Mode - an Outline for New Musical Mechanics
 
