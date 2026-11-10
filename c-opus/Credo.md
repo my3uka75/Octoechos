@@ -1,10 +1,9 @@
 ***Work*** is a composition
 
-- **Instrumentation**: instr./instr.
-- **Composed:** YYYY
+- **Instrumentation**: SATB
+- **Composed:** 2025
 - **Durata**: NN'
-- **Dedication**: Name Lastname
-- **Commission:** *Institution*
+- **Commission:** *Swedish Radio Choir*
 - **Premiere**: Name Lastname, DD MMMM YYYY, at *PLACE*, CITY, Country
 - **Published:** Edition OCTOECHOS © YYYY; Cat. No. NNNN.
 - **ISWC:** T-NNN.NNN.NNN-N
