@@ -11,10 +11,14 @@
             "id": "25f07bb546d984fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "c-opus/Chandangel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chandangel"
             }
           }
         ]
