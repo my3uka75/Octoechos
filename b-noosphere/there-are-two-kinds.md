@@ -1,4 +1,3 @@
-
 ---
 title: "There Are Two Kinds of Knowledge…"
 author: "djuro zivkovic"
