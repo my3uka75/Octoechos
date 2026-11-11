@@ -1,11 +1,13 @@
-[readme](a-techne/readme.md)
+[test](test.md)
 
-[a1a1-ancient-mode](../a-techne/a1-ancient-mode/a1a1-ancient-mode.md)
-
-[readme](readme.md)
+[art-and-science](art-and-science.md)
 
 [readme](../a-techne/readme.md)
 
-[Chandangel](c-opus/Chandangel.md)
+[YES](../a-techne/a1-ancient-mode/1a1-/readme.md)
+
+
+
+
 
 

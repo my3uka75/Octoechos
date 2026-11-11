@@ -1,12 +1,13 @@
----
+```
 title: Ancient Mode
 date: 2026-01-01
 source: review
 language: en
 tags:
-  - ancient-mode
+  - #ancient-mode
 author: Petar Linta
----
+```
+
 **The white paper "Ancient Mode" has been released on 2025-11-23**
 ## Download Section
 Download PDF file (46MB):

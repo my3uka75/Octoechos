@@ -23,7 +23,7 @@ This specific angel, illuminated from within, in the desert, would say: "What us
 *Branko Miljković, from "Arilje's Angel", 1957.*
 
 ### In Swedish
-Att äga rum bland sju stjärnor när elden och händelserna upphör, och ren kristallisering börjar, skänkt i stillhet. En ängel, ensam på muren - kanske existerar den verkligen inom muren, men när den inte är på muren är den en skugga. I dess ursprungliga allvar minskar sin synlighet för vissa saker. Sedan börjar vandringen; jag känner en förändring i strukturen av mina sinnen, och istället för en panna har jag en enda tanke. Det finns ingen triumf bortom olyckan. När vi upptäckte detta utbytte vi subtilt oss själva. Så förvandlade vi verkligen till en myt, bara för att senare tvivla på den.
+Den äger rum bland sju stjärnor när elden och händelserna upphör, och ren kristallisering börjar, skänkt i stillhet. En ängel, ensam på muren - kanske existerar den verkligen inom muren, men när den inte är på muren är den en skugga. I dess ursprungliga allvar minskar sin synlighet för vissa saker. Sedan börjar vandringen; jag känner en förändring i strukturen av mina sinnen, och istället för en panna har jag en enda tanke. Det finns ingen triumf bortom olyckan. När vi upptäckte detta utbytte vi subtilt oss själva. Så förvandlade vi verkligen till en myt, bara för att senare tvivla på den.
 
 Detta kan bara förklaras av vatten som inte flyter, den lugna uppsynen när elden och händelserna upphör, och kristallisering börjar. Och även om substansen av de stjärnorna runt huvudet är immateriell, tillhör de den mänskliga rymden. Ändå förblir det ansiktet det bästa beviset på den gröna solen och de sedda skorpionerna. Bakom det ansiktet väntar någons blod på att födas, och det kommer att känna igen det ansiktet. I hjärtat tänds en ljus, lova att allt kommer att ses och förstås i minnet, i framtiden och inom en själv. Fram till dess måste man bevara sina ögon som stirrar från någon mur och vakta mot både blindhet och att bli blindad.
 
@@ -32,9 +32,9 @@ Den här specifika ängeln, upplyst inifrån, skulle säga i öknen: "Vad är me
 *Branko Miljkovic, 1957. Ur "Ängeln från Arilje"*
 
 ### In Serbian (original)
-Заузме своје место између седам звезда када престаје ватра и збивање и почиње чиста кристализација подарена у смиравању. Анђео усамњен на зиду, можда он стварно постоји у зиду,али када није на зиду, он је сен. У својој првобитној озбиљности смањује видљивост неким стварима. Тада почиње лутање, осетим да се мења структура мојих чула И да уместо чела имам једну једину мисао. Непостоји тријумф изван несреће. Док смо то сазнали неприметно смо заменили себе. Тако смо стварно претворили у мит, па доцније посумњамо у њега. Али један песник који је дуго стајао испод зида у који је било немогуће посумњати, ваљда због његовог горког укуса и тврдоће, препознао је своје лице безброј пута сељено на једном српском средњивековном анђелу. Онда он стварно постоји између елемената и односа који поравнавају свет, постоји у чистој могућности као чудо и верност силама који су иза зида.
+Заузме своје место између седам звезда када престаје ватра и збивање и почиње чиста кристализација подарена у смиравању. Анђео усамњен на зиду, можда он стварно постоји у зиду,али када није на зиду, он је сен. У својој првобитној озбиљности смањује видљивост неким стварима. Тада почиње лутање, осетим да се мења структура мојих чула И да уместо чела имам једну једину мисао. Непостоји тријумф изван несреће. Док смо то сазнали неприметно смо заменили себе. Тако смо стварно претворили у мит, па доцније посумњамо у њега. 
 
-То могу да објасне само воде које не теку, тај мирни лик када престаје ватра и збивање и почиње кристализација. И мада је супстанција тих звезда око главе нематеријална, оне припадају човековом простору. Али то лице остаје најбољи доказ зеленога сунца и виђених шкорпија. Иза тог лица нечија крв чека да буде рођена и она ће препознати то лице. У срцу се пали светлост која обећава да ће све бити виђено и сагледано у сећању и будућности и у себи самом. Дотле треба сачувати своје очи које гледају са некога зида и чувати се ослепљења и заслепљења. Нисам први који се плаши да не ослепим забринут за дубину свога ока кад гледам у језеро или у простор. А ништа није теже него гледати читаву вечност са некога зида. И највише нам при том недостаје празнина где не струји крв и где бисмо сместили своје представе о евентуалном божанству. Ипак ништа није изгубљено, јер празнина је то чега нема. Али има нешто око његове главе што је чиста лепота и непревазиђена врлина, а слична је празнини.
+То могу да објасне само воде које не теку, тај мирни лик када престаје ватра и збивање и почиње кристализација. И мада је супстанција тих звезда око главе нематеријална, оне припадају човековом простору. Али то лице остаје најбољи доказ зеленога сунца и виђених шкорпија. Иза тог лица нечија крв чека да буде рођена и она ће препознати то лице. У срцу се пали светлост која обећава да ће све бити виђено и сагледано у сећању и будућности и у себи самом. Дотле треба сачувати своје очи које гледају са некога зида и чувати се ослепљења и заслепљења. 
 
 Овај конкретни Анђео, осветљен сам собом изнутра, да је у пустињи рекао би: Шта ће ми нада ако не да сачувам ову пустињу. Да сиђе са зида, ово је предео који продужује љубав.
 
@@ -44,7 +44,5 @@ Den här specifika ängeln, upplyst inifrån, skulle säga i öknen: "Vad är me
 In the orchestration, a digital keyboard is utilized, and the synthesizer "Zebra2" by u-he is featured with various patches available for download HERE. Achieving a balanced blend with the orchestra is paramount, preferably utilizing an omni speaker setup in stereo for optimal performance.
 
 ## Technique
-The concerto is completely written in the [Ancient Mode](1-techne/1a-ancient-mode/1a.1_Ancient_Mode.md) in D.
+The concerto is completely written in [Ancient Mode](../a-techne/a1-ancient-mode/a1a1-ancient-mode.md)  in D.
 
-
-**[INDEX](README.md)**

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c-opus/Chandangel.md",
+                "file": "b-noosphere/test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Chandangel"
+              "title": "test"
             }
           }
         ]
@@ -190,12 +190,12 @@
   },
   "active": "25f07bb546d984fc",
   "lastOpenFiles": [
+    "a-techne/a1-ancient-mode/a1a1-ancient-mode.md",
+    "c-opus/Chandangel.md",
     "b-noosphere/test.md",
     "b-noosphere/art-and-science.md",
     "b-noosphere/ancient-mode-vs-tintinnabuli.md",
     "b-noosphere/freedom.md",
-    "c-opus/Chandangel.md",
-    "a-techne/a1-ancient-mode/a1a1-ancient-mode.md",
     "c-opus/Citadel of Love.md",
     "c-opus/Alleluias.md",
     "c-opus/150 Psalms.md",
