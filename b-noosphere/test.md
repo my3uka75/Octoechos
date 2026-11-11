@@ -1,11 +1,9 @@
+[readme](a-techne/readme.md)
 
 
-[[a-techne/a1-ancient-mode/a1a1-ancient-mode]]
+[a1a1-ancient-mode](a-techne/a1-ancient-mode/a1a1-ancient-mode.md)
 
 
-[[b-noosphere/readme]]
-
-
-[[c-opus/Bogoluchie]]
+[Chandangel](c-opus/Chandangel.md)
 
 
