@@ -11,10 +11,14 @@
             "id": "9a2aa936de12bfb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "b-noosphere/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -186,6 +190,7 @@
   },
   "active": "9a2aa936de12bfb5",
   "lastOpenFiles": [
+    "b-noosphere/test.md",
     "c-opus/Chandangel.md",
     "c-opus/Citadel of Love.md",
     "c-opus/Alleluias.md",
@@ -211,7 +216,6 @@
     "3-opus/Eclat de larme.md",
     "3-opus/Eli, Eli!.md",
     "3-opus/Fantasia.md",
-    "3-opus/Fantasmagoria.md",
-    "3-opus/Fire-Taming.md"
+    "3-opus/Fantasmagoria.md"
   ]
 }
