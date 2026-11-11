@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b-noosphere/test.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "README"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.22265625
+    "width": 265
   },
   "right": {
     "id": "615448e61d80ad77",
@@ -190,9 +190,11 @@
   },
   "active": "25f07bb546d984fc",
   "lastOpenFiles": [
+    "a-techne/a1-ancient-mode/1a1-/readme.md",
+    "a-techne/readme.md",
+    "b-noosphere/test.md",
     "a-techne/a1-ancient-mode/a1a1-ancient-mode.md",
     "c-opus/Chandangel.md",
-    "b-noosphere/test.md",
     "b-noosphere/art-and-science.md",
     "b-noosphere/ancient-mode-vs-tintinnabuli.md",
     "b-noosphere/freedom.md",
@@ -200,7 +202,6 @@
     "c-opus/Alleluias.md",
     "c-opus/150 Psalms.md",
     "b-noosphere/readme.md",
-    "a-techne/readme.md",
     "1a-ancient-mode/a1a1-ancient-mode.md",
     "1a-ancient-mode",
     "3-opus/150 Psalms.md",
@@ -215,7 +216,6 @@
     "3-opus/Credo.md",
     "3-opus/Duo.md",
     "3-opus/Eclat de larme.md",
-    "3-opus/Eli, Eli!.md",
-    "3-opus/Fantasia.md"
+    "3-opus/Eli, Eli!.md"
   ]
 }
