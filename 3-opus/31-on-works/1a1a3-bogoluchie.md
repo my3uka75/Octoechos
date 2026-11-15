@@ -72,7 +72,7 @@ Konstantinos Lanaras
 Evangelos Kotsonas  
 Ioannis Panousakis
 
-#bolu
+tags: #bolu #bogoluchie #performance
 
 ---
 
