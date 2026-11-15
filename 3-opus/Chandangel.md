@@ -1,7 +1,7 @@
 ***Chandangel*** is a concerto for violin and orchestra commissioned by Swedish Chamber Orchestra, Norwegian Chamber Orchestra and Gothenburg Symphony Orchestra, written for Pekka Kuusisto, composed in 2021-23.
 
 ---
-- **Instrumentation**: 2.2.2.2/1.2.0.0./perc.kbd./Solo Vn/Str
+- **Instrumentation**: 2.2.2.2/1.2.0.0./perc.kbd./SoloVn./Str.
 - **Composed:** 2023
 - **Durata**: 24'
 - **Dedication**: Pekka Kuusisto
@@ -44,5 +44,4 @@ Den här specifika ängeln, upplyst inifrån, skulle säga i öknen: "Vad är me
 In the orchestration, a digital keyboard is utilized, and the synthesizer "Zebra2" by u-he is featured with various patches available for download HERE. Achieving a balanced blend with the orchestra is paramount, preferably utilizing an omni speaker setup in stereo for optimal performance.
 
 ## Technique
-The concerto is completely written in [Ancient Mode](../a-techne/a1-ancient-mode/a1a1-ancient-mode.md)  in D.
-
+The concerto is completely written in [Ancient Mode](../1-composition/11-ancient-mode/1a1a1_ancient-mode.md)  in D. The middle three movements have been previously used in [Alleluias](Alleluias.md) for viola and piano.
