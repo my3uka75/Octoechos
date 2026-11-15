@@ -3,8 +3,8 @@
 #### **Professional Appointments**
 
 - Teacher of Composition, Royal College of Music, Stockholm (https://kmh.se)
-- Professor of Composition, Art University, Novi Sad (https://akademija.uns.ac.rs/)
-- Permanent member (ledamot) of the Swedish Royal Academy of Music (https://www.musikaliskaakademien.se)
+- Guest Professor of Composition, Art University, Novi Sad (https://akademija.uns.ac.rs/)
+- Permanent member of the Swedish Royal Academy of Music (https://www.musikaliskaakademien.se)
 
 ---
 #### **Awards & Honors**
