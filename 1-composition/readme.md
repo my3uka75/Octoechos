@@ -1,4 +1,5 @@
 # CONTENT
 
-[Ancient Mode](a1-ancient-mode/a1a1-ancient-mode.md)
+[Ancient Mode](11-ancient-mode/1a1a1_ancient-mode.md)
+[Ancient Mode sr](11-ancient-mode/1a1a2_anticki-modus-srb.md)
 

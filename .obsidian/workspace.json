@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-composition/12-on-works/1a1a5_the-icon-long-comment.md",
+                "file": "1-composition/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1a1a5_the-icon-long-comment"
+              "title": "readme"
             }
           }
         ]
@@ -190,6 +190,13 @@
   },
   "active": "dbd67b970cf1cc65",
   "lastOpenFiles": [
+    "1-composition/11-ancient-mode/1a1a2_anticki-modus-srb.md",
+    "1-composition/11-ancient-mode/1a1a1_ancient-mode.md",
+    "1-composition/readme.md",
+    "3-opus/31-on-works/1a1a5_the-icon-long-comment.md",
+    "3-opus/31-on-works/1a1a4_the-icon-inspiration.md",
+    "3-opus/31-on-works/1a1a3_bogoluchie.md",
+    "4-writings/readme.md",
     "3-opus/Chandangel.md",
     "1-composition/12-on-works/1a1a4_the-icon-inspiration.md",
     "1-composition/12-on-works/1a1a3_bogoluchie.md",
@@ -210,13 +217,6 @@
     "c-opus/150 Psalms.md",
     "b-noosphere/readme.md",
     "1a-ancient-mode/a1a1-ancient-mode.md",
-    "1a-ancient-mode",
-    "3-opus/150 Psalms.md",
-    "3-opus/Agape-Superplasma.md",
-    "3-opus/Alleluias.md",
-    "3-opus/Around the Candle Lights.md",
-    "3-opus/Ascetic Discourse.md",
-    "3-opus/Bogoluchie.md",
-    "3-opus/Citadel of Love.md"
+    "1a-ancient-mode"
   ]
 }
