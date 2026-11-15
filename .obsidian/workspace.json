@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-documents/1a1a6-bullet-biography.md",
+                "file": "3-opus/Hosanna.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1a1a6-bullet-biography"
+              "title": "Hosanna"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "fbcff4623b943c4e",
   "lastOpenFiles": [
+    "3-opus/Chandangel.md",
+    "5-documents/1a1a6-bullet-biography.md",
     "x/1a1a1-1a3g2/1a3g2-.md",
     "x/1a1a1-1a3g2/1a3g1-.md",
     "x/1a1a1-1a3g2/1a3f9-.md",
@@ -214,8 +216,6 @@
     "x/1a1a1-1a3g2/1a3d8-.md",
     "x/1a1a1-1a3g2/1a3d7-.md",
     "x/1a1a1-1a3g2/1a3d6-.md",
-    "x/1a1a1-1a3g2/1a3d5-.md",
-    "x/1a1a1-1a3g2/1a3d4-.md",
     "x/1a1a1-1a3g2",
     "x/untitled folder 13",
     "x/untitled folder 12",
