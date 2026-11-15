@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROVENANCE.md",
+                "file": "1-composition/12-on-works/1a1a5_the-icon-long-comment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROVENANCE"
+              "title": "1a1a5_the-icon-long-comment"
             }
           }
         ]
@@ -190,9 +190,12 @@
   },
   "active": "dbd67b970cf1cc65",
   "lastOpenFiles": [
+    "3-opus/Chandangel.md",
+    "1-composition/12-on-works/1a1a4_the-icon-inspiration.md",
+    "1-composition/12-on-works/1a1a3_bogoluchie.md",
+    "PROVENANCE.md",
     "AUTHORSHIP.md",
     "a-techne/readme.md",
-    "PROVENANCE.md",
     "README.md",
     "x",
     "b-noosphere/test.md",
@@ -214,9 +217,6 @@
     "3-opus/Around the Candle Lights.md",
     "3-opus/Ascetic Discourse.md",
     "3-opus/Bogoluchie.md",
-    "3-opus/Citadel of Love.md",
-    "3-opus/Chandangel.md",
-    "3-opus/Concerto Terrae.md",
-    "3-opus/Credo.md"
+    "3-opus/Citadel of Love.md"
   ]
 }
