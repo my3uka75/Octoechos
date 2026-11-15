@@ -41,4 +41,5 @@ tags: #ancient-mode
 id: 1a1a2
 language: srb
 author: "Petar Linta"
+date: 2026-01-01
 ```

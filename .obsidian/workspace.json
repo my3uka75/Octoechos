@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "02b40d6b2f2e533d",
+        "id": "16b4cbc6f7985fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "31bd32c1773c7da5",
+            "id": "fbcff4623b943c4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-writings/readme.md",
+                "file": "1-composition/11-ancient-mode/1a1a2_anticki-modus-srb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "1a1a2_anticki-modus-srb"
             }
           }
         ]
@@ -188,11 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "31bd32c1773c7da5",
+  "active": "fbcff4623b943c4e",
   "lastOpenFiles": [
+    "1-composition/11-ancient-mode/1a1a1_ancient-mode.md",
+    "5-documents/1a1a6_bullet-biography.md",
+    "4-writings/readme.md",
+    "5-documents",
     "3-opus/Chandangel.md",
     "3-opus/Alleluias.md",
-    "1-composition/11-ancient-mode/1a1a1_ancient-mode.md",
     "1-techne/1a-ancient-mode/1a.1_Ancient_Mode.md",
     "1-techne/1a-ancient-mode",
     "1-techne",
@@ -201,7 +204,6 @@
     "1-composition/11-ancient-mode/1a1a2_anticki-modus-srb.md",
     "3-opus/31-on-works/1a1a5_the-icon-long-comment.md",
     "3-opus/31-on-works/1a1a4_the-icon-inspiration.md",
-    "4-writings/readme.md",
     "1-composition/12-on-works/1a1a4_the-icon-inspiration.md",
     "1-composition/12-on-works/1a1a3_bogoluchie.md",
     "PROVENANCE.md",
@@ -218,7 +220,6 @@
     "b-noosphere/freedom.md",
     "c-opus/Citadel of Love.md",
     "c-opus/Alleluias.md",
-    "c-opus/150 Psalms.md",
     "1a-ancient-mode"
   ]
 }
