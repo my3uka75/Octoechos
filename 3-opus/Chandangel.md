@@ -44,4 +44,4 @@ Den här specifika ängeln, upplyst inifrån, skulle säga i öknen: "Vad är me
 In the orchestration, a digital keyboard is utilized, and the synthesizer "Zebra2" by u-he is featured with various patches available for download HERE. Achieving a balanced blend with the orchestra is paramount, preferably utilizing an omni speaker setup in stereo for optimal performance.
 
 ## Technique
-The concerto is completely written in [Ancient Mode](../1-composition/11-ancient-mode/1a1a1_ancient-mode.md)  in D. The middle three movements have been previously used in [Alleluias](Alleluias.md) for viola and piano.
+The concerto is completely written in [Ancient Mode](../1-composition/11-ancient-mode/1a1a1-ancient-mode.md)  in D. The middle three movements have been previously used in [Alleluias](Alleluias.md) for viola and piano.
