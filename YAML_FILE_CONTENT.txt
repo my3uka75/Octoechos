@@ -1,0 +1,26 @@
+The actual text begins here...
+
+tags: #music
+
+---
+
+```yaml
+id: xxxxx
+author: "Djuro Zivkovic"
+date: 2026-11-14
+original_language: serbian
+type: theoretical-document, essay, note, letter, educational
+source: notebook, music-score, note
+page: sourcepage
+subjects:
+  - composition
+  - theology
+status: duplicate
+same_as: xxxxx
+status: withdrawn
+reason: "Assigned in error"
+date_created: null
+date_digitized: 2026-11-14
+developed_from: xxxxx
+continues_to: xxxxx
+```
