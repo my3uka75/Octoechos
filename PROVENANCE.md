@@ -4,6 +4,8 @@
 
 This document records the origin, custody, transformation, organization, and preservation history of the materials in this repository. Its purpose is to help future readers distinguish original historical evidence from later digitization, transcription, editing, and repository activity.
 
+[readme](a-techne/readme.md)
+
 ## Creator and collecting context
 
 The corpus was created and assembled by **Djuro Zivkovic** during his compositional and intellectual work over several decades.
