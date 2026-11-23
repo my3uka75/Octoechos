@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "273196e7f35e0fbf",
+        "id": "d2d14f58efa48a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "68576fc832e1c913",
+            "id": "d3d65cd6efe99b63",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "68576fc832e1c913",
+  "active": "d3d65cd6efe99b63",
   "lastOpenFiles": [
+    "5-documents/1a1a6-bullet-biography.md",
     "1-composition/11-ancient-mode/1a1a2-anticki-modus-srb.md",
     "1-composition/11-ancient-mode/1a1a1-ancient-mode.md",
     "README.md",
@@ -198,7 +199,6 @@
     "3-opus/Alleluias.md",
     "a-techne/readme.md",
     "a-techne",
-    "5-documents/1a1a6-bullet-biography.md",
     "x/1a1a1-1a3g2/1a3g2-.md",
     "x/1a1a1-1a3g2/1a3g1-.md",
     "x/1a1a1-1a3g2/1a3f9-.md",
