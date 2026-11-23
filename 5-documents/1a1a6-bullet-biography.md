@@ -39,18 +39,17 @@
 ---
 #### **Critical Acclaim**
 
-- Music described as “captivating and highly concentrated,” “unnatural, echoing beauty,” and “coloured by mysticism and phantasy” (Grawemeyer Award / Dagens Nyheter)
-- Recognized for originality, precise notation, and a unique, personal tone language
+- Music described as “captivating and highly concentrated,” “unnatural, echoing beauty,” and “coloured by mysticism and phantasy” (Grawemeyer Award; Dagens Nyheter)
+- Recognized for originality, precise notation, and a unique, personal tone language (Grawemeyer Award; Brittanica Dictionary)
 
 ---
 #### **Teaching Philosophy**
 
 - Emphasizes the integration of artistic individuality, technical mastery, and creative exploration in composition.
-- Encourages students to draw inspiration from diverse musical traditions, own roots, and personal experience, fostering authentic artistic voices.
-- Promotes rigorous study of compositional techniques, including polyphony, orchestration, algorithmic composition, set theory, and innovative harmonic frameworks.
-- Supports a holistic approach to music education, combining analytical skills, practical musicianship, and critical reflection.
-- Values open dialogue, mentorship, and the cultivation of curiosity, aiming to inspire students to engage deeply with both historical and contemporary musical contexts.
-- Advocates for the role of music as a medium for spiritual and intellectual exploration, guiding students to create works that are both personally meaningful and universally important.
+- Encourages students to draw inspiration from diverse musical traditions, but also own roots and personal experiences, fostering authentic artistic voices.
+- Promotes rigorous study of compositional techniques, including polyphony, orchestration, algorithmic composition, set theory, innovative harmonic frameworks, etc.
+- Values open dialogue, mentorship, and the cultivation of curiosity, in order to inspire students to engage deeply with both historical and contemporary musical contexts.
+- Advocates for the role of music as a medium for spiritual and intellectual exploration, guiding students to create works that are both personally meaningful to them but also important at the universal historical scale.
 
 tags: #biography
 
@@ -59,4 +58,5 @@ tags: #biography
 ```yaml
 id: 1a1a6
 date: 2026
+version: 2
 ```
