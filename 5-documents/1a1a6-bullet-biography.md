@@ -37,6 +37,12 @@
 “On the Guarding of the Heart,” “Le Cimetiere Marin,” cello concerto “Unceasing Prayers,” “The White Angel,” oratorio “The Mystical Sacrifice,” liturgical drama-opera “Bogoluchie,” violin concerto “Chandangel,” choral works such as five motets “Lyra Laudis,” “Credo.”
 
 ---
+#### **Theoretical Works**
+
+- "The Ancient Mode" - Edition Octoechos, 2026, 978-91-9789415-9
+- "Difference Tones" - "Patterns of Intuition" / Springer 2012, 978-94-017-9560-9
+
+---
 #### **Critical Acclaim**
 
 - Music described as “captivating and highly concentrated,” “unnatural, echoing beauty,” and “coloured by mysticism and phantasy” (Grawemeyer Award; Dagens Nyheter)
