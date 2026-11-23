@@ -11,10 +11,14 @@
             "id": "d3d65cd6efe99b63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-composition/11-ancient-mode/1a1a1-ancient-mode.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1a1a1-ancient-mode"
             }
           }
         ]
